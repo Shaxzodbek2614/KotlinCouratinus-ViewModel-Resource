@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zarurlik">
+        <item>shart</item>
+        <item>foydali</item>
+        <item>tavsiya</item>
+        <item>hayot_mamot</item>
+    </string-array>
+</resources>
